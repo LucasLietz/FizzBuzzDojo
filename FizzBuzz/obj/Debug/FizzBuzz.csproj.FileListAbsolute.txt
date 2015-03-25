@@ -1,0 +1,5 @@
+c:\users\lucas\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

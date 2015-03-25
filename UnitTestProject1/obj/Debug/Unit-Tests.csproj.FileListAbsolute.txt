@@ -1,0 +1,7 @@
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\UnitTestProject1\obj\Debug\Unit-Tests.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\UnitTestProject1\bin\Debug\UnitTests.dll
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\UnitTestProject1\bin\Debug\UnitTests.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\UnitTestProject1\bin\Debug\FizzBuzz.exe
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\UnitTestProject1\bin\Debug\FizzBuzz.pdb
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTests.dll
+C:\Users\Lucas\documents\visual studio 2013\Projects\FizzBuzz\UnitTestProject1\obj\Debug\UnitTests.pdb
